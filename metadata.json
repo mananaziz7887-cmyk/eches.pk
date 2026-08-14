@@ -1,0 +1,6 @@
+{
+  "name": "Echoes.pk - Premium Women's Atelier",
+  "description": "Cinematic luxury fashion experience by designer Hannan Aziz featuring iOS 26 Liquid Glass interface, editorial showcase, and WhatsApp couture booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
